@@ -1,0 +1,7 @@
+for Creation you have to install pyttsx3 
+1: Pip install pyttsx3
+2: Just write the code of texttospeech.ipynb  file 
+3: For convert the voice of male to female just uncomment the lines which have been mentioned in texttospeech.ipynb file
+4: If you want to try enter your data in input function then it reads your given data from the file
+pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline and is compatible with both Python 2 and 3. An application invokes the pyttsx3.init() factory function to get a reference to a pyttsx3. Engine instance. it is a very easy to use tool which converts the entered text into speech. 
+The pyttsx3 module supports two voices first is female and the second is male which is provided by “sapi5” for windows.
